@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "button",
+    "libraryId": "9157b761-4abe-46da-8097-a6ee7cf2b452",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "button",
+    "solutionShortDescription": "button description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
